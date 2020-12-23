@@ -6,6 +6,10 @@
   "scripts": {
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Isaac-Svi/react-gallery-slider.git"
+  },
   "author": "Isaac Svi",
   "license": "ISC",
   "devDependencies": {
